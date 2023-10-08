@@ -114,19 +114,11 @@
   - Rameen Beroukhim
   - Pratiti Bandopadhayay
   publisher: Nature Cancer
-  date: null
+  date: '2022-07-04'
   link: https://doi.org/gsttrn
   orcid: 0000-0002-7654-6208
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: null
-  image: null
-  buttons:
-  - type: source
-    text: Manuscript Source
-    link: https://www.nature.com/articles/s43018-022-00403-z
-  repo: FrankDubois/pHGG_SVs
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ebiom.2022.104193
   title: Assessing and improving the validity of COVID-19 autopsy studies - A multicentre
     approach to establish essential standards for immunohistochemical and ultrastructural
