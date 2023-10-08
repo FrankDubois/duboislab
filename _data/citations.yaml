@@ -1,155 +1,623 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1158/1078-0432.CCR-21-3521
+  title: <i>ALK</i> Amplification and Rearrangements Are Recurrent Targetable Events
+    in Congenital and Adult Glioblastoma
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Anne-Florence Blandin
+  - Ross Giglio
+  - Maya Srikanth Graham
+  - Guadalupe Garcia
+  - Seth Malinowski
+  - Jared K. Woods
+  - Shakti Ramkissoon
+  - Lori Ramkissoon
+  - Frank Dubois
+  - Kathleen Schoolcraft
+  - Jessica Tsai
+  - Dayle Wang
+  - Robert Jones
+  - Jayne Vogelzang
+  - Kristine Pelton
+  - Sarah Becker
+  - Fiona Watkinson
+  - Claire Sinai
+  - Elizabeth F. Cohen
+  - Matthew A. Booker
+  - Michael Y. Tolstorukov
+  - Veerle Haemels
+  - Liliana Goumnerova
+  - Karen Wright
+  - Mark Kieran
+  - Katie Fehnel
+  - David Reardon
+  - Arnault Tauziede-Espariat
+  - Rishi Lulla
+  - Benjamin Carcamo
+  - Stanley Chaleff
+  - Alain Charest
+  - Frederik De Smet
+  - Azra H. Ligon
+  - Adrian Dubuc
+  - Melanie Pages
+  - Pascale Varlet
+  - Patrick Y. Wen
+  - Brian M. Alexander
+  - Susan Chi
+  - Sanda Alexandrescu
+  - Ralf Kittler
+  - Robert Bachoo
+  - Pratiti Bandopadhayay
+  - Rameen Beroukhim
+  - Keith L. Ligon
+  publisher: Clinical Cancer Research
+  date: '2023-02-13'
+  link: https://doi.org/gsttrk
+  orcid: 0000-0002-7654-6208
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41568-022-00488-9
+  title: Structural variations in cancer and the 3D genome
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Frank Dubois
+  - Nikos Sidiropoulos
+  - Joachim Weischenfeldt
+  - Rameen Beroukhim
+  publisher: Nature Reviews Cancer
+  date: '2022-06-28'
+  link: https://doi.org/gsttrm
+  orcid: 0000-0002-7654-6208
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1038/s43018-022-00403-z
+  title: Structural variants shape driver combinations and outcomes in pediatric high-grade
+    glioma
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Frank P. B. Dubois
+  - Ofer Shapira
+  - Noah F. Greenwald
+  - Travis Zack
+  - Jeremiah Wala
+  - Jessica W. Tsai
+  - Alexander Crane
+  - Audrey Baguette
+  - Djihad Hadjadj
+  - Ashot S. Harutyunyan
+  - Kiran H. Kumar
+  - Mirjam Blattner-Johnson
+  - Jayne Vogelzang
+  - Cecilia Sousa
+  - Kyung Shin Kang
+  - Claire Sinai
+  - Dayle K. Wang
+  - Prasidda Khadka
+  - Kathleen Lewis
+  - Lan Nguyen
+  - Hayley Malkin
+  - Patricia Ho
+  - "Ryan O\u2019Rourke"
+  - Shu Zhang
+  - Rose Gold
+  - Davy Deng
+  - Jonathan Serrano
+  - Matija Snuderl
+  - Chris Jones
+  - Karen D. Wright
+  - Susan N. Chi
+  - Jacques Grill
+  - Claudia L. Kleinman
+  - Liliana C. Goumnerova
+  - Nada Jabado
+  - David T. W. Jones
+  - Mark W. Kieran
+  - Keith L. Ligon
+  - Rameen Beroukhim
+  - Pratiti Bandopadhayay
+  publisher: Nature Cancer
+  date: null
+  link: https://doi.org/gsttrn
+  orcid: 0000-0002-7654-6208
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: null
+  image: null
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
   - type: source
     text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+    link: https://www.nature.com/articles/s43018-022-00403-z
+  repo: FrankDubois/pHGG_SVs
+- id: doi:10.1016/j.ebiom.2022.104193
+  title: Assessing and improving the validity of COVID-19 autopsy studies - A multicentre
+    approach to establish essential standards for immunohistochemical and ultrastructural
+    analyses
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Susanne Krasemann
+  - Carsten Dittmayer
+  - Saskia von Stillfried
+  - Jenny Meinhardt
+  - Fabian Heinrich
+  - Kristin Hartmann
+  - Susanne Pfefferle
+  - Edda Thies
+  - Regina von Manitius
+  - Tom Alex David Aschman
+  - Josefine Radke
+  - Anja Osterloh
+  - Simone Schmid
+  - Eva Miriam Buhl
+  - Jana Ihlow
+  - Frank Dubois
+  - Viktor Arnhold
+  - Sefer Elezkurtaj
+  - David Horst
+  - Andreas Hocke
+  - Sara Timm
+  - Sebastian Bachmann
+  - Victor Corman
+  - Hans-Hilmar Goebel
+  - Jakob Matschke
+  - Stephanie Stanelle-Bertram
+  - "G\xFClsah Gabriel"
+  - Danielle Seilhean
+  - Homa Adle-Biassette
+  - Benjamin Ondruschka
+  - Matthias Ochs
+  - Werner Stenzel
+  - Frank L. Heppner
+  - Peter Boor
+  - Helena Radbruch
+  - Michael Laue
+  - Markus Glatzel
+  publisher: eBioMedicine
+  date: '2022-09-01'
+  link: https://doi.org/gqmz9w
+  orcid: 0000-0002-7654-6208
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1158/0008-5472.CAN-22-0671
+  title: FOXR2 Is an Epigenetically Regulated Pan-Cancer Oncogene That Activates ETS
+    Transcriptional Circuits
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Jessica W. Tsai
+  - Paloma Cejas
+  - Dayle K. Wang
+  - Smruti Patel
+  - David W. Wu
+  - Phonepasong Arounleut
+  - Xin Wei
+  - Ningxuan Zhou
+  - Sudeepa Syamala
+  - Frank P.B. Dubois
+  - Alexander Crane
+  - Kristine Pelton
+  - Jayne Vogelzang
+  - Cecilia Sousa
+  - Audrey Baguette
+  - Xiaolong Chen
+  - Alexandra L. Condurat
+  - Sarah E. Dixon-Clarke
+  - Kevin N. Zhou
+  - Sophie D. Lu
+  - Elizabeth M. Gonzalez
+  - Madison S. Chacon
+  - Jeromy J. Digiacomo
+  - Rushil Kumbhani
+  - Dana Novikov
+  - J'Ya Hunter
+  - Maria Tsoli
+  - David S. Ziegler
+  - Uta Dirksen
+  - Natalie Jager
+  - Gnana Prakash Balasubramanian
+  - Christof M. Kramm
+  - Michaela Nathrath
+  - Stefan Bielack
+  - Suzanne J. Baker
+  - Jinghui Zhang
+  - James M. McFarland
+  - Gad Getz
+  - "Fran\xE7ois Aguet"
+  - Nada Jabado
+  - Olaf Witt
+  - Stefan M. Pfister
+  - Keith L. Ligon
+  - Volker Hovestadt
+  - Claudia L. Kleinman
+  - Henry Long
+  - David T.W. Jones
+  - Pratiti Bandopadhayay
+  - Timothy N. Phoenix
+  publisher: Cancer Research
+  date: '2022-07-08'
+  link: https://doi.org/gsttrp
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-28198-8
+  title: PPM1D mutations are oncogenic drivers of de novo diffuse midline glioma formation
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Prasidda Khadka
+  - Zachary J. Reitman
+  - Sophie Lu
+  - Graham Buchan
+  - Gabrielle Gionet
+  - Frank Dubois
+  - Diana M. Carvalho
+  - Juliann Shih
+  - Shu Zhang
+  - Noah F. Greenwald
+  - Travis Zack
+  - Ofer Shapira
+  - Kristine Pelton
+  - Rachel Hartley
+  - Heather Bear
+  - Yohanna Georgis
+  - Spandana Jarmale
+  - Randy Melanson
+  - Kevin Bonanno
+  - Kathleen Schoolcraft
+  - Peter G. Miller
+  - Alexandra L. Condurat
+  - Elizabeth M. Gonzalez
+  - Kenin Qian
+  - Eric Morin
+  - Jaldeep Langhnoja
+  - Leslie E. Lupien
+  - Veronica Rendo
+  - Jeromy Digiacomo
+  - Dayle Wang
+  - Kevin Zhou
+  - Rushil Kumbhani
+  - Maria E. Guerra Garcia
+  - Claire E. Sinai
+  - Sarah Becker
+  - Rachel Schneider
+  - Jayne Vogelzang
+  - Karsten Krug
+  - Amy Goodale
+  - Tanaz Abid
+  - Zohra Kalani
+  - Federica Piccioni
+  - Rameen Beroukhim
+  - Nicole S. Persky
+  - David E. Root
+  - Angel M. Carcaboso
+  - Benjamin L. Ebert
+  - Christine Fuller
+  - Ozgun Babur
+  - Mark W. Kieran
+  - Chris Jones
+  - Hasmik Keshishian
+  - Keith L. Ligon
+  - Steven A. Carr
+  - Timothy N. Phoenix
+  - Pratiti Bandopadhayay
+  publisher: Nature Communications
+  date: '2022-02-01'
+  link: https://doi.org/gsttrq
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-32023-7
+  title: Therapeutic targeting of ATR in alveolar rhabdomyosarcoma
+  authors:
+  - "Heathcliff Dorado Garc\xEDa"
+  - Fabian Pusch
+  - Yi Bei
+  - Jennifer von Stebut
+  - "Glorymar Ib\xE1\xF1ez"
+  - Kristina Guillan
+  - Koshi Imami
+  - "Dennis G\xFCrgen"
+  - Jana Rolff
+  - Konstantin Helmsauer
+  - Stephanie Meyer-Liesener
+  - Natalie Timme
+  - Victor Bardinet
+  - "Roc\xEDo Chamorro Gonz\xE1lez"
+  - Ian C. MacArthur
+  - Celine Y. Chen
+  - Joachim Schulz
+  - Antje M. Wengner
+  - Christian Furth
+  - Birgit Lala
+  - Angelika Eggert
+  - Georg Seifert
+  - Patrick Hundsoerfer
+  - Marieluise Kirchner
+  - Philipp Mertins
+  - Matthias Selbach
+  - Andrej Lissat
+  - Frank Dubois
+  - David Horst
+  - Johannes H. Schulte
+  - Simone Spuler
+  - Daoqi You
+  - Filemon Dela Cruz
+  - Andrew L. Kung
+  - Kerstin Haase
+  - Michela DiVirgilio
+  - Monika Scheer
+  - Michael V. Ortiz
+  - Anton G. Henssen
+  publisher: Nature Communications
+  date: '2022-07-25'
+  link: https://doi.org/10.1038/s41467-022-32023-7
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3174/ajnr.A6546
+  title: MR Imaging Correlates for Molecular and Mutational Analyses in Children with
+    Diffuse Intrinsic Pontine Glioma
+  authors:
+  - C. Jaimes
+  - S. Vajapeyam
+  - D. Brown
+  - P.-C. Kao
+  - C. Ma
+  - L. Greenspan
+  - N. Gupta
+  - L. Goumnerova
+  - P. Bandopahayay
+  - F. Dubois
+  - N.F. Greenwald
+  - T. Zack
+  - O. Shapira
+  - R. Beroukhim
+  - K.L. Ligon
+  - S. Chi
+  - M.W. Kieran
+  - K.D. Wright
+  - T.Y. Poussaint
+  publisher: American Journal of Neuroradiology
+  date: '2020-05-01'
+  link: https://doi.org/gsttrr
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2020.11.012
+  title: Histone H3.3G34-Mutant Interneuron Progenitors Co-opt PDGFRA for Gliomagenesis
+  authors:
+  - Carol C.L. Chen
+  - Shriya Deshmukh
+  - Selin Jessa
+  - Djihad Hadjadj
+  - "V\xE9ronique Lisi"
+  - Augusto Faria Andrade
+  - Damien Faury
+  - Wajih Jawhar
+  - Rola Dali
+  - Hiromichi Suzuki
+  - Manav Pathania
+  - Deli A
+  - Frank Dubois
+  - Eleanor Woodward
+  - "Steven H\xE9bert"
+  - Marie Coutelier
+  - Jason Karamchandani
+  - Steffen Albrecht
+  - Sebastian Brandner
+  - Nicolas De Jay
+  - Tenzin Gayden
+  - Andrea Bajic
+  - Ashot S. Harutyunyan
+  - Dylan M. Marchione
+  - Leonie G. Mikael
+  - Nikoleta Juretic
+  - Michele Zeinieh
+  - Caterina Russo
+  - Nicola Maestro
+  - Angelia V. Bassenden
+  - Peter Hauser
+  - "J\xF3zsef Virga"
+  - Laszlo Bognar
+  - Almos Klekner
+  - Michal Zapotocky
+  - Ales Vicha
+  - Lenka Krskova
+  - Katerina Vanova
+  - Josef Zamecnik
+  - David Sumerauer
+  - Paul G. Ekert
+  - David S. Ziegler
+  - Benjamin Ellezam
+  - Mariella G. Filbin
+  - Mathieu Blanchette
+  - Jordan R. Hansford
+  - Dong-Anh Khuong-Quang
+  - Albert M. Berghuis
+  - Alexander G. Weil
+  - Benjamin A. Garcia
+  - Livia Garzia
+  - Stephen C. Mack
+  - Rameen Beroukhim
+  - Keith L. Ligon
+  - Michael D. Taylor
+  - Pratiti Bandopadhayay
+  - Christoph Kramm
+  - Stefan M. Pfister
+  - Andrey Korshunov
+  - Dominik Sturm
+  - David T.W. Jones
+  - Paolo Salomoni
+  - Claudia L. Kleinman
+  - Nada Jabado
+  publisher: Cell
+  date: '2020-12-01'
+  link: https://doi.org/10.1016/j.cell.2020.11.012
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-020-2209-9
+  title: Mechanisms and therapeutic implications of hypermutation in gliomas
+  authors:
+  - Mehdi Touat
+  - Yvonne Y. Li
+  - Adam N. Boynton
+  - Liam F. Spurr
+  - J. Bryan Iorgulescu
+  - Craig L. Bohrson
+  - Isidro Cortes-Ciriano
+  - Cristina Birzu
+  - Jack E. Geduldig
+  - Kristine Pelton
+  - Mary Jane Lim-Fat
+  - Sangita Pal
+  - Ruben Ferrer-Luna
+  - Shakti H. Ramkissoon
+  - Frank Dubois
+  - Charlotte Bellamy
+  - Naomi Currimjee
+  - Juliana Bonardi
+  - Kenin Qian
+  - Patricia Ho
+  - Seth Malinowski
+  - Leon Taquet
+  - Robert E. Jones
+  - Aniket Shetty
+  - Kin-Hoe Chow
+  - Radwa Sharaf
+  - Dean Pavlick
+  - Lee A. Albacker
+  - Nadia Younan
+  - Capucine Baldini
+  - "Ma\xEFt\xE9 Verreault"
+  - Marine Giry
+  - Erell Guillerm
+  - Samy Ammari
+  - "Fr\xE9d\xE9ric Beuvon"
+  - Karima Mokhtari
+  - Agusti Alentorn
+  - Caroline Dehais
+  - Caroline Houillier
+  - Florence Laigle-Donadey
+  - Dimitri Psimaras
+  - Eudocia Q. Lee
+  - Lakshmi Nayak
+  - J. Ricardo McFaline-Figueroa
+  - Alexandre Carpentier
+  - Philippe Cornu
+  - Laurent Capelle
+  - Bertrand Mathon
+  - Jill S. Barnholtz-Sloan
+  - Arnab Chakravarti
+  - Wenya Linda Bi
+  - E. Antonio Chiocca
+  - Katie Pricola Fehnel
+  - Sanda Alexandrescu
+  - Susan N. Chi
+  - Daphne Haas-Kogan
+  - Tracy T. Batchelor
+  - Garrett M. Frampton
+  - Brian M. Alexander
+  - Raymond Y. Huang
+  - Azra H. Ligon
+  - Florence Coulet
+  - Jean-Yves Delattre
+  - "Kh\xEA Hoang-Xuan"
+  - David M. Meredith
+  - Sandro Santagata
+  - Alex Duval
+  - Marc Sanson
+  - Andrew D. Cherniack
+  - Patrick Y. Wen
+  - David A. Reardon
+  - "Aur\xE9lien Marabelle"
+  - Peter J. Park
+  - Ahmed Idbaih
+  - Rameen Beroukhim
+  - Pratiti Bandopadhayay
+  - Franck Bielle
+  - Keith L. Ligon
+  publisher: Nature
+  date: '2020-04-15'
+  link: https://doi.org/ghczhh
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-019-10307-9
+  title: Neuronal differentiation and cell-cycle programs mediate response to BET-bromodomain
+    inhibition in MYC-driven medulloblastoma
+  authors:
+  - Pratiti Bandopadhayay
+  - Federica Piccioni
+  - "Ryan O\u2019Rourke"
+  - Patricia Ho
+  - Elizabeth M. Gonzalez
+  - Graham Buchan
+  - Kenin Qian
+  - Gabrielle Gionet
+  - Emily Girard
+  - Margo Coxon
+  - Matthew G. Rees
+  - Lisa Brenan
+  - Frank Dubois
+  - Ofer Shapira
+  - Noah F. Greenwald
+  - Melanie Pages
+  - Amanda Balboni Iniguez
+  - Brenton R. Paolella
+  - Alice Meng
+  - Claire Sinai
+  - Giovanni Roti
+  - Neekesh V. Dharia
+  - Amanda Creech
+  - Benjamin Tanenbaum
+  - Prasidda Khadka
+  - Adam Tracy
+  - Hong L. Tiv
+  - Andrew L. Hong
+  - Shannon Coy
+  - Rumana Rashid
+  - Jia-Ren Lin
+  - Glenn S. Cowley
+  - Fred C. Lam
+  - Amy Goodale
+  - Yenarae Lee
+  - Kathleen Schoolcraft
+  - Francisca Vazquez
+  - William C. Hahn
+  - Aviad Tsherniak
+  - James E. Bradner
+  - Michael B. Yaffe
+  - Till Milde
+  - Stefan M. Pfister
+  - Jun Qi
+  - Monica Schenone
+  - Steven A. Carr
+  - Keith L. Ligon
+  - Mark W. Kieran
+  - Sandro Santagata
+  - James M. Olson
+  - Prafulla C. Gokhale
+  - Jacob D. Jaffe
+  - David E. Root
+  - Kimberly Stegmaier
+  - Cory M. Johannessen
+  - Rameen Beroukhim
+  publisher: Nature Communications
+  date: '2019-06-03'
+  link: https://doi.org/gjjdh7
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2967/jnumed.118.208785
+  title: "Specific <sup>18</sup>F-FDHT Accumulation in Human Prostate Cancer Xenograft\
+    \ Murine Models Is Facilitated by Prebinding to Sex Hormone\u2013Binding Globulin"
+  authors:
+  - Benjamin M. Larimer
+  - Frank Dubois
+  - Emily Bloch
+  - Sarah Nesti
+  - Michael Placzek
+  - Giorgia Zadra
+  - Jacob M. Hooker
+  - Massimo Loda
+  - Umar Mahmood
+  publisher: Journal of Nuclear Medicine
+  date: '2018-05-31'
+  link: https://doi.org/gfjhzj
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
