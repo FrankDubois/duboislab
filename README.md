@@ -1,7 +1,7 @@
 
 # FrankDubois's Website
 
-Visit **[website url](#)** 🚀
+Visit **[frankdubois.github.io/duboislab](https://frankdubois.github.io/duboislab)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
