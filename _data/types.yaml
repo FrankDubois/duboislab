@@ -14,9 +14,17 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+mdts:
+  icon: fa-solid fa-graduation-cap
+  description: MD Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+rotationgrad:
+  icon: fa-solid fa-user-graduate
+  description: Rotation Master's Student
 
 programmer:
   icon: fa-solid fa-code
