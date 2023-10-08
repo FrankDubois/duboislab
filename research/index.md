@@ -15,6 +15,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## Highlighted
 
 {% include citation.html lookup="Structural varia" style="rich" %}
+{% include citation.html lookup="Structural variant" style="rich" %}
 
 {% include section.html %}
 
