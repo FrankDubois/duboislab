@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: FrankDubois
+title: Dubois Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Exploring cancer growth dependecies resulting from recurrent variants in the 3D cancer genome
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@FrankDubois.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: frank.dubois@charite.de
+  orcid: 0000-0002-7654-6208
+  google-scholar: 
   github: FrankDubois
-  twitter: FrankDubois
-  youtube: FrankDubois
+  twitter: 
+  youtube: 
 
 ### jekyll settings
 
