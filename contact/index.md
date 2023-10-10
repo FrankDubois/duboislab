@@ -7,27 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always looking to have talented and enthusiastic people join our team. We are based at the Institute of Pathology at the Charité – Universitätsmedizin Berlin Campus Mitte, able to take advantage of all the resources the Charité research environment offers. If you are interested, please contact us with your CV and a description of your interests.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="frank.dubois@charite.de"
+  link="frank.dubois@charite.de"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/CqGR2de1hHw9LHMP9"
 %}
 
 {% include section.html %}
@@ -36,8 +29,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/institut-fuer-pathologie-charite-berlin.jpg"
+  caption="The Pathology Institute"
 %}
 
 {% endcapture %}
@@ -57,7 +50,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
+Campus address  
 consectetur adipiscing elit  
 sed do eiusmod tempor
 {% endcapture %}
