@@ -1,9 +1,9 @@
 ---
 ---
 
-# FrankDubois's Website
+# Dubois Lab
 
-An engaging 1-3 sentence description of your lab.
+Exploring cancer growth dependecies resulting from recurrent variants in the 3D cancer genome
 
 {% include section.html %}
 

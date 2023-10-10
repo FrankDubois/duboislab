@@ -39,8 +39,8 @@ We are always looking to have talented and enthusiastic people join our team. We
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/institut-location.jpg"
+  caption="Our location"
 %}
 
 {% endcapture %}
@@ -50,21 +50,24 @@ We are always looking to have talented and enthusiastic people join our team. We
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Campus address  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Campus address: <br>
+Virchowweg 15, 
+10117 Berlin,
+Germany
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Mail address: <br>
+Institute of Pathology
+Charité – Universitätsmedizin Berlin
+Charitéplatz 1,
+10117 Berlin
+Germany
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Institute website: <br>
+https://pathologie-ccm.charite.de/en/
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
