@@ -1,7 +1,7 @@
 ---
 ---
 
-# Dubois Lab
+# Studying 3D Cancer Genomics 
 
 Exploring cancer growth dependecies resulting from recurrent variants in the 3D cancer genome
 
