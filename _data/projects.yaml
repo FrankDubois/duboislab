@@ -8,11 +8,11 @@
   tags:
     -
 
-- title: Liposarcomas
-  subtitle: 
+- title: Defining dedifferentiated liposarcoma heterogeneity and its tumor-immune cell interactions
+  subtitle: MDM2 amplicon structures and their biological and clinical consequences in liposarcomas
   image: images/cancer.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: 
+  description: Dedifferentiated liposarcoma (DDLPS) is a malignancy of fat cells with poor therapy responses and high mortality. It likely develops from a well-differentiated state (WDLPS). Both always show amplicons of MDM2, an inhibitor of p53. They differ in morphology and proliferation rate, but what distinguishes them at the molecular level is unclear. Our goal is to understand the differences in their regulatory pathways resulting in different growth dependencies, interactions with the immune environment, and clinical outcomes.
   repo: 
   tags:
     
@@ -20,8 +20,8 @@
 - title: Biomarker discovery in clinical sequencing
   subtitle: 
   image: images/DNA2.jpeg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: 
+  description: We are analyzing sequencing data from routine clinical care to search for novel biomarkers of therapy response and clinical outcomes resulting from copy number scars of deficient DNA repair processes in cancer. 
   repo: 
   tags:
     - 
@@ -29,8 +29,8 @@
 - title: Classifying SVs into germline and somatic in tumor sequencing without paired normals
   subtitle: A sequence context based machine learning approach
   image: images/DNA1.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: 
+  description: Here we build a tool to distinguish between somatic and germline SVs for situations where a paired normal is not present. We found that SVs of germline vs. somatic origin have distinguishing characteristics. Although each is insufficient to distinguish between germline and somatic SVs on its own, their combination (including their interaction terms) effectively distinguishes germline vs. somatic SVs.
   repo: 
   tags:
     - 
