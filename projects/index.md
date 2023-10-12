@@ -2,13 +2,12 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our focus is to understand how recurrent changes to the structure of cancer genomes impact the activation of oncogenes and resulting cancer growth.  We can identify such significantly recurrent structural variants (SVs) by analyzing human cancer genomes from hundreds of patients and their tumors. To interpret how, with these recurrent SVs, cancers hijack gene regulation through novel 3D genome interactions we integrate epigenetic data from tumor samples and cell lines and validate our findings experimentally using CRISPR-based genome engineering approaches. With this approach, we aim to find biomarkers and therapies that target the aberrant gene regulation in cancer.   
 
 {% include tags.html tags="publication, resource, website" %}
 
