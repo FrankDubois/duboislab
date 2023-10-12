@@ -1,6 +1,6 @@
 ---
 name: Emil Netz
-image: images/photo.jpg
+image: images/Emil.jpeg
 description: 
 role: mdts
 links:
