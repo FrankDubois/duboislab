@@ -3,27 +3,34 @@
   group: featured
   image: images/DKH_Logo_RGB_640x360px_72dpi_Website.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Most cancer genomes experience DNA amplifications as the most common gain-of-function alterations. These amplifications lead to cancer by overexpressing oncogenes. Amplifications include regulatory elements that promote transcription. However, a systematic exploration of how amplifications hijack transcriptional regulation is lacking. We hypothesize that high-level amplifications exploit tissue-specific enhancers and transcription factors to promote aberrant oncogene expression and cancer growth. Understanding if these regulatory factors are essential for cancer growth could lead to novel therapies that target tissue-specific gene regulation. 
   repo: 
   tags:
     -
 
-- title: Cool Package
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Liposarcomas
+  subtitle: 
+  image: images/cancer.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
+    
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Biomarker discovery in clinical sequencing
+  subtitle: 
+  image: images/DNA2.jpeg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
-    - publication
+    - 
 
+- title: Classifying SVs into germline and somatic in tumor sequencing without paired normals
+  subtitle: A sequence context based machine learning approach
+  image: images/DNA1.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: 
+  tags:
+    - 
