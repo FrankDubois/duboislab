@@ -22,12 +22,14 @@ and are passionate about biomedical research let us know!
 
 {% include section.html %}
 
+We are grateful for research support from 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/DKH_Logo_RGB_640x360px_72dpi_Website.jpg" width="640px" %}
+{% include figure.html image="images/Charite.jpg" width="640px" %}
+{% include figure.html image= "images/BIH_logo.jpg" %}
+
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{% include grid.html style="100%" content=content %}
