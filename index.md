@@ -59,7 +59,7 @@ Starting from significantly recurrent changes in cancer genomes, we are research
 
 {% capture text %}
 
-We are hiring!
+**We are hiring!**
 
 {%
   include button.html
