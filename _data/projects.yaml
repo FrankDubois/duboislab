@@ -3,7 +3,7 @@
   group: featured
   image: images/DKH_Logo_RGB_640x360px_72dpi_Website.jpg
   link: https://github.com/
-  description: Most cancer genomes experience DNA amplifications as the most common gain-of-function alterations. These amplifications lead to cancer by overexpressing oncogenes. Amplifications include regulatory elements that promote transcription. However, a systematic exploration of how amplifications hijack transcriptional regulation is lacking. We hypothesize that high-level amplifications exploit tissue-specific enhancers and transcription factors to promote aberrant oncogene expression and cancer growth. Understanding if these regulatory factors are essential for cancer growth could lead to novel therapies that target tissue-specific gene regulation. 
+  description: Most cancer genomes experience DNA amplifications as the most common gain-of-function alterations leading to overexpression of oncogenes. Why does this work? How does the transcriptional regulation of the oncogenes get hijacked on these amplifications? Do they exploit tissue-specific enhancers and transcription factors for oncogene expression and cancer growth? We combine whole genome sequencing of hundreds of breast and lung cancers including long-read and epigenetic analyses with validation of our findings using CRISPR-based genome engineering to answer these questions. Understanding which regulatory factors are essential for cancer growth could lead to novel tissue-specific gene regulation targeting therapies. 
   repo: 
   tags:
     -
@@ -15,22 +15,21 @@
   description: Dedifferentiated liposarcoma (DDLPS) is a malignancy of fat cells with poor therapy responses and high mortality. It likely develops from a well-differentiated state (WDLPS). Both always show amplicons of MDM2, an inhibitor of p53. They differ in morphology and proliferation rate, but what distinguishes them at the molecular level is unclear. Our goal is to understand the differences in their regulatory pathways resulting in different growth dependencies, interactions with the immune environment, and clinical outcomes.
   repo: 
   tags:
-    
-
-- title: Biomarker discovery in clinical sequencing
-  subtitle: 
-  image: images/DNA2.jpeg
-  link: 
-  description: We are analyzing sequencing data from routine clinical care to search for novel biomarkers of therapy response and clinical outcomes resulting from copy number scars of deficient DNA repair processes in cancer. 
-  repo: 
-  tags:
-    - 
 
 - title: Classifying SVs into germline and somatic in tumor sequencing without paired normals
   subtitle: A sequence context based machine learning approach
   image: images/DNA1.jpg
   link: 
   description: Here we build a tool to distinguish between somatic and germline SVs for situations where a paired normal is not present. We found that SVs of germline vs. somatic origin have distinguishing characteristics. Although each is insufficient to distinguish between germline and somatic SVs on its own, their combination (including their interaction terms) effectively distinguishes germline vs. somatic SVs.
+  repo: 
+  tags:
+    - 
+
+- title: Biomarker discovery in clinical sequencing
+  subtitle: 
+  image: images/DNA2.jpeg
+  link: 
+  description: We are analyzing sequencing data from routine clinical care to search for novel biomarkers of therapy response and clinical outcomes resulting from copy number scars of deficient DNA repair processes in cancer. 
   repo: 
   tags:
     - 

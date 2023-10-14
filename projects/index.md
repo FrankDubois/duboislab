@@ -18,4 +18,4 @@ Our focus is to understand how recurrent changes to the structure of cancer geno
 {% include section.html %}
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: " %}
