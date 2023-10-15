@@ -3,7 +3,7 @@
 
 # 3D Cancer Genomics Lab 
 
-Exploring cancer growth dependencies resulting from recurrent variants in the 3D cancer genome
+We are exploring cancer growth dependencies resulting from recurrent variants in the 3D cancer genome.
 
 {% include section.html %}
 
