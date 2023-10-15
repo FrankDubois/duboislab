@@ -59,7 +59,7 @@ Starting from significantly recurrent changes in cancer genomes, we are research
 
 {% capture text %}
 
-**We are hiring!**
+We are a group of young scientists at the Charité Institute of Pathology at the Campus Berlin Mitte. Thanks to a [Max-Eder grant]( https://www.krebshilfe.de/forschen/foerderung/foerderprogramme/nachwuchsfoerderung/max-eder-nachwuchsgruppen/) from the German Cancer Aid we are now looking for new team members to [join us!](/2023/10/12/PhDs.html)
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Starting from significantly recurrent changes in cancer genomes, we are research
 
 {%
   include feature.html
-  image="images/Charite.jpg"
+  image="images/CKteam_s.jpg"
   link="team"
   title="Our Team"
   text=text
