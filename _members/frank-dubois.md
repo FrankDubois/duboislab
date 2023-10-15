@@ -7,4 +7,3 @@ links:
   home-page: https://frankdubois.github.io/
   orcid: 0000-0002-7654-6208
 ---
-

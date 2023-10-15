@@ -2,7 +2,7 @@
   subtitle: Max-Eder project
   group: featured
   image: images/DKH_Logo_RGB_640x360px_72dpi_Website.jpg
-  link: https://github.com/
+  link: https://frankdubois.github.io/projects/1_project_ME/
   description: Most cancer genomes experience DNA amplifications as the most common gain-of-function alterations leading to overexpression of oncogenes. Why does this work? How does the transcriptional regulation of the oncogenes get hijacked on these amplifications? Do they exploit tissue-specific enhancers and transcription factors for oncogene expression and cancer growth? We combine whole genome sequencing of hundreds of breast and lung cancers including long-read and epigenetic analyses with validation of our findings using CRISPR-based genome engineering to answer these questions. Understanding which regulatory factors are essential for cancer growth could lead to novel tissue-specific gene regulation targeting therapies. 
   repo: 
   tags:
@@ -19,11 +19,11 @@
 - title: Classifying SVs into germline and somatic in tumor sequencing without paired normals
   subtitle: A sequence context based machine learning approach
   image: images/DNA1.jpg
-  link: 
+  link: https://www.biorxiv.org/content/10.1101/2023.10.09.561462v1
   description: Here we build a tool to distinguish between somatic and germline SVs for situations where a paired normal is not present. We found that SVs of germline vs. somatic origin have distinguishing characteristics. Although each is insufficient to distinguish between germline and somatic SVs on its own, their combination (including their interaction terms) effectively distinguishes germline vs. somatic SVs.
   repo: 
   tags:
-    - 
+    - preprint
 
 - title: Biomarker discovery in clinical sequencing
   subtitle: 
