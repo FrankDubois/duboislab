@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are always looking for enthusiastic new labmembers at several levels (PhD and MD students, postdocs or MSci students)
+We are always looking for enthusiastic new labmembers at several levels (PhD and MD students, postdocs or MSci students). 
 If you are interested in studying how recurrent genomic rearrangements impact oncogene regulation in cancer 
 and are passionate about biomedical research let us know! 
 
