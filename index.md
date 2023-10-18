@@ -11,7 +11,7 @@ We are exploring cancer growth dependencies resulting from recurrent variants in
 
 {% capture text %}
 
-Structural variants shape cancer driver combinations through changes in the 3D genome
+Structural variants shape cancer driver combinations through changes in the 3D genome.
 
 {%
   include button.html
