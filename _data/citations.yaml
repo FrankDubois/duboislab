@@ -1,5 +1,65 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/2159-8290.CD-23-1189
+  title: Passenger Gene Coamplifications Create Collateral Therapeutic Vulnerabilities
+    in Cancer
+  authors:
+  - Yi Bei
+  - "Luca Bram\xE9"
+  - Marieluise Kirchner
+  - Raphaela Fritsche-Guenther
+  - Severine Kunz
+  - Animesh Bhattacharya
+  - Mara-Camelia Rusu
+  - "Dennis G\xFCrgen"
+  - Frank P.B. Dubios
+  - "Julia K.C. K\xF6ppke"
+  - Jutta Proba
+  - Nadine Wittstruck
+  - Olga Alexandra Sidorova
+  - "Roc\xEDo Chamorro Gonz\xE1lez"
+  - Heathcliff Dorado Garcia
+  - "Lotte Br\xFCckner"
+  - Robin Xu
+  - "M\u0103d\u0103lina Giurgiu"
+  - Elias Rodriguez-Fos
+  - Qinghao Yu
+  - Bastiaan Spanjaard
+  - Richard P. Koche
+  - Clemens A. Schmitt
+  - Johannes H. Schulte
+  - Angelika Eggert
+  - Kerstin Haase
+  - Jennifer Kirwan
+  - Anja I.H. Hagemann
+  - Philipp Mertins
+  - "Jan R. D\xF6rr"
+  - Anton G. Henssen
+  publisher: Cancer Discovery
+  date: '2024-01-13'
+  link: https://doi.org/gtjsm8
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.09.561462
+  title: Genomic sequence context differs between germline and somatic structural
+    variants allowing for their differentiation in tumor samples without paired normals
+  authors:
+  - Wolu Chukwu
+  - Siyun Lee
+  - Alexander Crane
+  - Shu Zhang
+  - Ipsa Mittra
+  - Marcin Imielinski
+  - Rameen Beroukhim
+  - Frank Dubois
+  - Simona Dalin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-12'
+  link: https://doi.org/gsvk93
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-21-3521
   title: <i>ALK</i> Amplification and Rearrangements Are Recurrent Targetable Events
     in Congenital and Adult Glioblastoma
