@@ -1,5 +1,5 @@
 ---
-name: Spiros Agalianos
+name: Amelie Koch
 image: images/amelie.jpg
 description: 
 role: mdts
