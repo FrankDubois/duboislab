@@ -42,13 +42,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.10.09.561462
-  title: Genomic sequence context differs between germline and somatic structural
-    variants allowing for their differentiation in tumor samples without paired normals
+  title: Comparison of germline and somatic structural variants in cancers reveal
+    systematic differences in variant generating and selection processes
   authors:
   - Wolu Chukwu
   - Siyun Lee
   - Alexander Crane
   - Shu Zhang
+  - Sophie Webster
   - Ipsa Mittra
   - Marcin Imielinski
   - Rameen Beroukhim
