@@ -30,9 +30,9 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
-researcher:
-  icon: fas fa-vial
-  text: Technician
+technician:
+  icon: fa-solid fa-vial
+  description: Technician
 
 mascot:
   icon: fa-solid fa-dog
