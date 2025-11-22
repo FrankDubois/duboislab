@@ -62,8 +62,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-21-3521
-  title: <i>ALK</i>Amplification and Rearrangements Are Recurrent Targetable Events
-    in Congenital and Adult Glioblastoma
+  title: "<i>ALK</i>\n                    Amplification and Rearrangements Are Recurrent\
+    \ Targetable Events in Congenital and Adult Glioblastoma"
   authors:
   - Anne-Florence Blandin
   - Ross Giglio
