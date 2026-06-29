@@ -1,5 +1,180 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2025.12.05.25341695
+  title: Spatial, Temporal, and Molecular Heterogeneity of ADC targets in High-Grade
+    Serous Ovarian Carcinoma
+  authors:
+  - Xiaoxuan Li
+  - Tobias Janik
+  - "Markus M\xF6bs"
+  - Stefan Florian
+  - Wolfgang D. Schmitt
+  - Amra Dzakulic
+  - Jalid Sehouli
+  - David Horst
+  - Frank Dubois
+  - Ioana Elena Braicu
+  - Mihnea P. Dragomir
+  publisher: openRxiv
+  date: '2025-12-05'
+  link: https://doi.org/hbsn3s
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.crmeth.2025.100991
+  title: A sequence context-based approach for classifying tumor structural variants
+    without paired normal samples
+  authors:
+  - Wolu Chukwu
+  - Siyun Lee
+  - Alexander Crane
+  - Shu Zhang
+  - Sophie Webster
+  - Oumayma Dakhama
+  - Ipsa Mittra
+  - Carlos Rauert
+  - Marcin Imielinski
+  - Rameen Beroukhim
+  - Frank Dubois
+  - Simona Dalin
+  publisher: Cell Reports Methods
+  date: '2025-03-01'
+  link: https://doi.org/hbsn3t
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/neuonc/noae164
+  title: 'Contemporary prognostic signatures and refined risk stratification of gliomas:
+    An analysis of 4400 tumors'
+  authors:
+  - Hia S Ghosh
+  - Ruchit V Patel
+  - Eleanor Woodward
+  - Noah F Greenwald
+  - Varun M Bhave
+  - Eduardo A Maury
+  - Gregory Cello
+  - Samantha E Hoffman
+  - Yvonne Li
+  - Hersh Gupta
+  - Gilbert Youssef
+  - Liam F Spurr
+  - Jayne Vogelzang
+  - Mehdi Touat
+  - Frank Dubois
+  - Andrew D Cherniack
+  - Xiaopeng Guo
+  - Sherwin Tavakol
+  - Gino Cioffi
+  - Neal I Lindeman
+  - Azra H Ligon
+  - E Antonio Chiocca
+  - David A Reardon
+  - Patrick Y Wen
+  - David M Meredith
+  - Sandro Santagata
+  - Jill S Barnholtz-Sloan
+  - Keith L Ligon
+  - Rameen Beroukhim
+  - Wenya Linda Bi
+  publisher: Neuro-Oncology
+  date: '2024-08-21'
+  link: https://doi.org/hbsn3v
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ccell.2025.02.018
+  title: Effective targeting of PDGFRA-altered high-grade glioma with avapritinib
+  authors:
+  - Lisa Mayr
+  - Sina Neyazi
+  - Kallen Schwark
+  - Maria Trissal
+  - Alexander Beck
+  - Jenna Labelle
+  - Sebastian K. Eder
+  - Liesa Weiler-Wichtl
+  - Joana G. Marques
+  - Carlos A.O. de Biagi-Junior
+  - Costanza Lo Cascio
+  - Owen Chapman
+  - Sunita Sridhar
+  - Rishaan Kenkre
+  - Aditi Dutta
+  - Shanqing Wang
+  - Jessica Wang
+  - Olivia Hack
+  - Andrezza Nascimento
+  - Cuong M. Nguyen
+  - Sophia Castellani
+  - Jacob S. Rozowsky
+  - Andrew Groves
+  - Eshini Panditharatna
+  - Gustavo Alencastro Veiga Cruzeiro
+  - Rebecca D. Haase
+  - Kuscha Tabatabai
+  - Sibylle Madlener
+  - Jack Wadden
+  - Tiffany Adam
+  - Seongbae Kong
+  - Madeline Miclea
+  - Tirth Patel
+  - Katharina Bruckner
+  - Daniel Senfter
+  - "Anna L\xE4mmerer"
+  - Jeffrey Supko
+  - Armin S. Guntner
+  - Hana Palova
+  - Jakub Neradil
+  - Natalia Stepien
+  - "Daniela L\xF6tsch-Gojo"
+  - Walter Berger
+  - Ulrike Leiss
+  - Verena Rosenmayr
+  - Christian Dorfer
+  - Karin Dieckmann
+  - Andreas Peyrl
+  - Amedeo A. Azizi
+  - Alicia Baumgartner
+  - Ondrej Slaby
+  - Petra Pokorna
+  - Louise M. Clark
+  - Amy Cameron
+  - Quang-De Nguyen
+  - Hiroaki Wakimoto
+  - Frank Dubois
+  - Noah F. Greenwald
+  - Pratiti Bandopadhayay
+  - Rameen Beroukhim
+  - Keith Ligon
+  - Christof Kramm
+  - Annika Bronsema
+  - Simon Bailey
+  - Ana Guerreiro Stucklin
+  - Sabine Mueller
+  - Mary Skrypek
+  - Nina Martinez
+  - Daniel C. Bowers
+  - David T.W. Jones
+  - Chris Jones
+  - "Natalie J\xE4ger"
+  - Jaroslav Sterba
+  - "Leonhard M\xFCllauer"
+  - Christine Haberler
+  - Chandan Kumar-Sinha
+  - Arul Chinnaiyan
+  - Rajen Mody
+  - Lukas Chavez
+  - Julia Furtner
+  - Carl Koschmann
+  - Johannes Gojo
+  - Mariella G. Filbin
+  publisher: Cancer Cell
+  date: '2025-04-01'
+  link: https://doi.org/g88cqp
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/2159-8290.CD-23-1189
   title: Passenger Gene Coamplifications Create Collateral Therapeutic Vulnerabilities
     in Cancer
@@ -41,6 +216,44 @@
   orcid: 0000-0002-7654-6208
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/nar/gkad1257
+  title: Aberrant DNA repair reveals a vulnerability in histone H3.3-mutant brain
+    tumors
+  authors:
+  - Giulia Giacomini
+  - Sandra Piquet
+  - Odile Chevallier
+  - Juliette Dabin
+  - Siau-Kun Bai
+  - Byungjin Kim
+  - Robert Siddaway
+  - Brian Raught
+  - Etienne Coyaud
+  - Chun-Min Shan
+  - Robert J D Reid
+  - Takenori Toda
+  - Rodney Rothstein
+  - Viviana Barra
+  - Therese Wilhelm
+  - Sabah Hamadat
+  - "Chlo\xE9 Bertin"
+  - Alexander Crane
+  - Frank Dubois
+  - Ignasi Forne
+  - Axel Imhof
+  - Pratiti Bandopadhayay
+  - Rameen Beroukhim
+  - Valeria Naim
+  - Songtao Jia
+  - Cynthia Hawkins
+  - Beatrice Rondinelli
+  - Sophie E Polo
+  publisher: Nucleic Acids Research
+  date: '2024-01-12'
+  link: https://doi.org/hbsn3w
+  orcid: 0000-0002-7654-6208
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.10.09.561462
   title: Comparison of germline and somatic structural variants in cancers reveal
     systematic differences in variant generating and selection processes
@@ -55,7 +268,7 @@
   - Rameen Beroukhim
   - Frank Dubois
   - Simona Dalin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-12'
   link: https://doi.org/gsvk93
   orcid: 0000-0002-7654-6208
